@@ -1,0 +1,13 @@
+.sobre-bloco{
+  margin-top: 6%;
+  padding-bottom: 5%;
+}
+
+.button-cv{
+  background: linear-gradient(180deg, #0f2fa3 0%, #703cab 100%);
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  padding: 7px;
+  font-size: 13px;
+}
