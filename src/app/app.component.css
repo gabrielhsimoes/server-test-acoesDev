@@ -35,3 +35,23 @@
   color: white;
   text-decoration: none;
 }
+
+.button-menu{
+  display: none;
+}
+
+@media (max-width: 960px) {
+
+.menu{
+  display: none;
+}
+
+.button-menu{
+  display: inline;
+  margin-left: auto;
+}
+
+.contato-btn{
+  display: none;
+}
+}
